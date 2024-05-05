@@ -1,0 +1,8 @@
+Case Study #1
+
+
+Reflecting on your experience, what lessons have you learned, and what actionable steps can you take to prevent similar issues in the future?
+
+As the professional role is not specified specifically, assuming that I am the project manager of the project team assigned to the software solution project, having an agile mindset I have to adapt and take action to the changes that occurred. I will set high priority in planning a change management plan and a risk management plan that will prevent similar issues in the future. 
+
+Otherwise, assuming I am a developer of the software solution, understanding the third-party dependencies and considering long-term support to third party solution providers in choosing them.
